@@ -20,7 +20,7 @@ Histological samples: https://github.com/tampapath/lung_colon_image_set
 The  Histopathology  image  Dataset  was  split  into  three  sets:  Training, Validation, and Test. The output labels include Cancerous (Malignant) and Non-cancerous (Benign). The images were converted into grayscale and then were resized and resampled, as a part of data preprocessing, to enhance better classification accuracy. After splitting the preprocessed data into training and testing, the CNN based VGG-16 was fitted into the data and was implemented for 10 epochs. Further, Tensor flow lib was used for Model Testing to give predictions for new and unseen images.
 
 # Author
-. Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
+Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
 
 # License 
 NA
